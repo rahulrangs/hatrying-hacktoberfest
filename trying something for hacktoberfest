@@ -1,4 +1,5 @@
-
+#include <iostream>
+using namespace std;
 
 int hcf(int n1, int n2);
 
